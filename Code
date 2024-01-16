@@ -131,7 +131,7 @@ String SendHTML(uint8_t led1stat, uint8_t led2stat) {
   
   
   //ptr +="<h4 style=\"font-size: 10px;\">BY:- Harsh and Kunal <br> B.Tech Section:-'E'</h4>\n";
-  ptr +="<h4>BY:- Harsh and Kunal <br> B.Tech Section:-'E'</h4>\n";
+  ptr +="<h4>BY:- Harsh <br> B.Tech Section:-'E'</h4>\n";
 
  
   
