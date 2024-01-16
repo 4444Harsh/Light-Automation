@@ -45,13 +45,6 @@ Welcome to the ESP8266-Based Light Automation project! This repository contains 
 - Each LED has ON and OFF buttons for manual control.
 - The interface displays the current status of each LED.
 
-## Contributing:
-
-Contributions are welcome! Feel free to enhance features, improve code, or fix issues. Please follow our [Contribution Guidelines](CONTRIBUTING.md).
-
-## License:
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code for your needs.
 
 Happy automating!
 
